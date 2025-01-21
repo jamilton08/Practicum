@@ -13,9 +13,10 @@ Through our computer science course we have discussed how much more efficient a 
 
 We will take a template that looks like the screenshot below
 
-Before we get into using CSS in our own work, let's take a look at it in the wild. We are going to use this [W3 Schools CSS Demo Page](https://www.w3schools.com/w3css/tryw3css\_templates\_start\_page.htm) - share the link with students. Once they have it open in Google Chrome (that's important!), ask them to right-click anywhere on the top red area and scroll down to 'Inspect.'
 
 <figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/initial_calc.png" alt=""><figcaption><p>Right clicking a page to inspect must be done in Google Chrome.</p></figcaption></figure>
+
+and make it look like the one below with it being able to completely function, so 5 * 3 should equal 15 and so on. what you initially will recieve 
 
 This will open up the Developer Tools (fondly referred to as 'dev tools') on the right side bar of the page, though they can be dragged around to different locations. At the top, they'll see the HTML for the page. Below, they'll see the CSS that applies to the element they select. In this case, they selected a div that contains many other elements and classes, so they will see CSS for those as well!
 
