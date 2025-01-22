@@ -42,7 +42,7 @@ We will navigate to our  `desktop` folder and we will look for a folder called `
 
 Inside you will find three files which are **index.html**, **style.css** and **script.js**. These files will be the ones you'll be working on. You might ask where will we be working on these files from and that's a ledgit question. We will be working on these files from `VS Code` which you can find by putting "vs code" on your search bar on the bottom of your `Desktop` and the icon should show up. Now double click or execute it to your liking. 
 
-<figure><img src="https://github.com/nycdoe-cs4all/interactive-web/blob/main/.gitbook/assets/Screen%20Shot%202023-03-01%20at%2012.07.51%20PM.png?raw=true" alt=""><figcaption><b>Fig 4</b> <p>Hover over <i>file</i> then <i>click open</i> and it from there you can navigate to <b>Desktop</b> then open <b> Practicum </b></p></figcaption></figure>
+<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/navigate.png"><figcaption><b>Fig 4</b> <p>Hover over <i>file</i> then <i>click open</i> and it from there you can navigate to <b>Desktop</b> then open <b> Practicum </b></p></figcaption></figure>
 
 ### Important Observations
 
