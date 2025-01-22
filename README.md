@@ -14,21 +14,13 @@ Through our computer science course we have discussed how much more efficient a 
 We will take a template that looks like the screenshot below
 
 
-<<<<<<< HEAD
-=======
-<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/initial_calc.png" alt=""><figcaption><p>initial template that you will recieve.</p></figcaption></figure>
 
-and make it look like the one below with it being able to completely function, so 5 * 3 should equal 15 and so on.
-<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/initial_calc.png" alt=""><figcaption><p>Completed Task</p></figcaption></figure>
-
-You will be given a small walkthrough and its up to you to fill the details. Those details will be matched with some test cases provided in a seperate folder. This will go over everything in the following order.
->>>>>>> 2abfaf77fb009a7e8d10a81876326b5e2a5f3bdf
 
 
 <figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/initial_calc.png" alt=""><figcaption><p><b>Fig 1</b> initial template that you will recieve.</p></figcaption></figure>
 
 and make it look like the one below with it being able to completely function, so 5 * 3 should equal 15 and so on.
-<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/initial_calc.png" alt=""><figcaption><p><b>Fig 2</b> Completed Task</p></figcaption></figure>
+<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/completed_calc.png" alt=""><figcaption><p><b>Fig 2</b> Completed Task</p></figcaption></figure>
 
 You will be given a small walkthrough and its up to you to fill the details. Those details will be matched with some test cases provided in a seperate folder. This will go over everything in the following order.
 
@@ -46,11 +38,11 @@ Okay so now lets move on to setup
 
 We will navigate to our  `desktop` folder and we will look for a folder called `practicum`
 
-<figure><img src="https://github.com/nycdoe-cs4all/interactive-web/blob/main/.gitbook/assets/Screen%20Shot%202023-03-01%20at%2012.07.51%20PM.png?raw=true" alt=""><figcaption><p><b>Fig 3</b> Folder in desktop</p></figcaption></figure>
+<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/folder.png"><figcaption><p><b>Fig 3</b> Folder in desktop</p></figcaption></figure>
 
 Inside you will find three files which are **index.html**, **style.css** and **script.js**. These files will be the ones you'll be working on. You might ask where will we be working on these files from and that's a ledgit question. We will be working on these files from `VS Code` which you can find by putting "vs code" on your search bar on the bottom of your `Desktop` and the icon should show up. Now double click or execute it to your liking. 
 
-<figure><img src="https://github.com/nycdoe-cs4all/interactive-web/blob/main/.gitbook/assets/Screen%20Shot%202023-03-01%20at%2012.07.51%20PM.png?raw=true" alt=""><figcaption><b>Fig 4</b> <p>Hover over <i>file</i> then <i>click open</i> and it from there you can navigate to <b>Desktop</b> then open <b> Practicum </b></p></figcaption></figure>
+<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/navigate.png"><figcaption><b>Fig 4</b> <p>Hover over <i>file</i> then <i>click open</i> and it from there you can navigate to <b>Desktop</b> then open <b> Practicum </b></p></figcaption></figure>
 
 ### Important Observations
 
