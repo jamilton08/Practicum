@@ -14,21 +14,13 @@ Through our computer science course we have discussed how much more efficient a 
 We will take a template that looks like the screenshot below
 
 
-<<<<<<< HEAD
-=======
-<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/initial_calc.png" alt=""><figcaption><p>initial template that you will recieve.</p></figcaption></figure>
 
-and make it look like the one below with it being able to completely function, so 5 * 3 should equal 15 and so on.
-<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/initial_calc.png" alt=""><figcaption><p>Completed Task</p></figcaption></figure>
-
-You will be given a small walkthrough and its up to you to fill the details. Those details will be matched with some test cases provided in a seperate folder. This will go over everything in the following order.
->>>>>>> 2abfaf77fb009a7e8d10a81876326b5e2a5f3bdf
 
 
 <figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/initial_calc.png" alt=""><figcaption><p><b>Fig 1</b> initial template that you will recieve.</p></figcaption></figure>
 
 and make it look like the one below with it being able to completely function, so 5 * 3 should equal 15 and so on.
-<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/initial_calc.png" alt=""><figcaption><p><b>Fig 2</b> Completed Task</p></figcaption></figure>
+<figure><img src="https://github.com/jamilton08/Practicum/blob/main/src/completed_calc.png" alt=""><figcaption><p><b>Fig 2</b> Completed Task</p></figcaption></figure>
 
 You will be given a small walkthrough and its up to you to fill the details. Those details will be matched with some test cases provided in a seperate folder. This will go over everything in the following order.
 
